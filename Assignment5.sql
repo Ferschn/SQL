@@ -2,7 +2,7 @@
 -- For each task only a single SQL statement should be used, except where stated otherwise (you may use sub-selects if needed).
 
 -- Name: Dominik Wirsig
--- Matrikelnr: 01400579
+-- Matrikelnr: xx
 
 
 
