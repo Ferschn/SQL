@@ -2,7 +2,7 @@
 -- Pro Aufgabe soll nur ein SQL-Statement verwendet werden, sofern nicht anders beschrieben (Sub-Selects sind aber erlaubt).
 
 -- Name: Dominik Wirsig
--- Matrikelnummer: 01400579
+-- Matrikelnummer:xxx
 
 -- 0) (1p.) Setzen Sie Ihre Datenbank als die Standard-Datenbank für die Statements in dieser Datei. 
 
